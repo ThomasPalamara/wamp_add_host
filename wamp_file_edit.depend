@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521200539 source:c:\users\web thomas\desktop\new folder\wamp_file_edit\main.c
+	<stdio.h>
+	<stdlib.h>
+
